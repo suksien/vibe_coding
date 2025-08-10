@@ -1,6 +1,8 @@
-Trying to vibe code with Firebase Studio.
+Vibe coding with Firebase Studio to create a food ordering app.
 
-Here's the prompt for Firebase Studio that I refined with ChatGPT:
+Inspiration:
+
+Prompt for Firebase Studio, refined with ChatGPT:
 
 ----------------------------------------------
 Build a food ordering app with the following requirements:
