@@ -1,5 +1,7 @@
 Vibe coding with Firebase Studio to create a food ordering app.
 
+Preview URL: https://9000-firebase-studio-1754051531385.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev
+
 Inspiration: A friend operating her home restaurant business is having trouble 
 streamlining customer orders and relies on personal messaging via WhatsApp to send menu 
 and receive orders. 
@@ -61,8 +63,6 @@ Optional: Export as CSV
 Current issues / improvements:
 1. Integrating Firestore to store states so menu and orders can be synced across multiple devices. Currently state is only preserved on a single device.
 2. Add authetication for accessing the Admin site. Currently anyone can access it via the URL or the link >.<
-
-Preview URL: https://9000-firebase-studio-1754051531385.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev
 
 Demo of the current app state:
 <video src="[https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4](https://github.com/suksien/vibe_coding/blob/main/demo.mov)"></video>
