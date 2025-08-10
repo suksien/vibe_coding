@@ -57,3 +57,9 @@ View past orders
 Filter by date or type
 Optional: Export as CSV
 ```
+
+Current issues / improvements:
+1. Integrating Firestore to store states so menu and orders can be synced across multiple devices. Currently state is only preserved on a single device.
+2. Add authetication for accessing the Admin site. Currently anyone can access it via the URL or the link >.<
+
+video src='demo.mov' width=180/>
