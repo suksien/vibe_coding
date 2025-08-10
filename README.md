@@ -1,11 +1,13 @@
 Vibe coding with Firebase Studio to create a food ordering app.
 
-Inspiration:
+Inspiration: A friend operating her home restaurant business is having trouble 
+streamlining customer orders and relies on personal messaging via WhatsApp to send menu 
+and receive orders. 
 
 Prompt for Firebase Studio, refined with ChatGPT:
 
 ----------------------------------------------
-Build a food ordering app with the following requirements:
+```Build a food ordering app with the following requirements:
 
 Use Firebase for hosting, Firestore for data storage, and Firebase Auth (optional) for admin login.
 
@@ -54,3 +56,4 @@ Orders sorted by time, newest first
 View past orders
 Filter by date or type
 Optional: Export as CSV
+```
